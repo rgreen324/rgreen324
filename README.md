@@ -1,4 +1,5 @@
-<img alt="Awesome GitHub Profile Readme" src="assets/header.png"> </img>
+<img alt="GitHub Profile Readme" src="assets/header.png"/>
+<img alt="Under Construction" src="assets/construction.gif"/>
 
 ### Hi there 👋
 
