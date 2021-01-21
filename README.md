@@ -1,5 +1,5 @@
 <img alt="GitHub Profile Readme" src="assets/header.png"/>
-<img alt="Under Construction" src="assets/construction.gif"/>
+<img alt="Under Construction" src="assets/construction.gif" style="max-width:100%;margin: auto;width: 574px;display: block;text-align: center;"/>
 
 ### Hi there 👋
 
